@@ -1005,6 +1005,11 @@ button.spec[disabled] {
 	color: black;
 	
 }
+
+.map-cont > div > iframe {
+	height: calc(350px + 1px);
+	width:100%;
+}
 /*****************************************footer*****************************************/
 .col_white_amrc { 
 	color:white;
